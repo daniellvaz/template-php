@@ -7,6 +7,7 @@
   "require": {
     "slim/slim": "^4.12",
     "slim/psr7": "dev-master",
-    "slim/twig-view": "^3.3"
+    "slim/twig-view": "^3.3",
+    "coffeecode/datalayer": "^2.0"
   }
 }

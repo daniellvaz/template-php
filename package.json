@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build:style": "npx tailwindcss --watch -i ./resources/css/app.css -o ./resources/css/index.css"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
